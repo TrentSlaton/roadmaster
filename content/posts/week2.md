@@ -3,7 +3,7 @@ title = 'Week 2 - Pre-trip'
 date = 2024-03-30T11:26:30-04:00
 +++
 
-[home](/)
+[home](../)
 
 ## Pre trip inspection
 

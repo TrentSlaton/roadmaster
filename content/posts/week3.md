@@ -3,7 +3,7 @@ title = 'Week3'
 date = 2024-03-30T11:26:33-04:00
 +++
 
-[home](../)
+[home](../../)
 
 ## Straight Line Backing
 
