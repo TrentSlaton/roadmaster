@@ -1,9 +1,9 @@
 +++
-title = 'Week3'
+title = 'Week 3 - Maneuvers'
 date = 2024-03-30T11:26:33-04:00
 +++
 
-[home](../../)
+[home](../)
 
 HI
 
