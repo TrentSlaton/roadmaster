@@ -5,8 +5,6 @@ date = 2024-03-30T11:26:30-04:00
 
 [home](../)
 
-HI
-
 ## Pre trip inspection
 
 ### In-Cab
