@@ -6,34 +6,13 @@
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2024 11:26:37 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 11:26:22 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week4</title>
-      <link>http://localhost:1313/week4/</link>
-      <pubDate>Sat, 30 Mar 2024 11:26:37 -0400</pubDate>
-      <guid>http://localhost:1313/week4/</guid>
-      <description>home&#xA;TODO</description>
-    </item>
-    <item>
-      <title>Week3</title>
-      <link>http://localhost:1313/week3/</link>
-      <pubDate>Sat, 30 Mar 2024 11:26:33 -0400</pubDate>
-      <guid>http://localhost:1313/week3/</guid>
-      <description>home&#xA;Straight Line Backing make sure mirrors are properly adjusted to you (sides of trailer should be just visible on the edge of your mirrors) drive truck straight forward so that it is centered in your lane. use your mirrors to judge this with your steer axel and steering wheel straight, place your right hand at 12 o&amp;rsquo;clock on the steering wheel and your left arm on the window sill put the truck in reverse and take feet off both pedals.</description>
-    </item>
-    <item>
-      <title>Week 2 - Pre-trip</title>
-      <link>http://localhost:1313/week2/</link>
-      <pubDate>Sat, 30 Mar 2024 11:26:30 -0400</pubDate>
-      <guid>http://localhost:1313/week2/</guid>
-      <description>home&#xA;Pre trip inspection In-Cab three points of contact&#xA;seatbelt - PMS (top, bottom, floor). not ripped, torn or frayed. clicks on, off, on.&#xA;safe start - sweep: yellow/red buttons out, neutral, turn key 1 click - dash lights (blue DEF light, yellow ABS light) and trailer ABS light will illuminate then extinguish. Crank engine.&#xA;emergency equipment&#xA;2 fire extinguishers - PMS, ABC rated, fully charge (needle in green), has safety pin 3 safety triangles - PMS, red and orange in color, they stand on their own spare fuses - i have a spare fuse for every fuse in the truck glass</description>
-    </item>
-    <item>
       <title>Week 1 - Classroom</title>
-      <link>http://localhost:1313/week1/</link>
+      <link>http://localhost:1313/posts/week1/</link>
       <pubDate>Sat, 30 Mar 2024 11:26:22 -0400</pubDate>
-      <guid>http://localhost:1313/week1/</guid>
+      <guid>http://localhost:1313/posts/week1/</guid>
       <description>home&#xA;TODO</description>
     </item>
   </channel>
