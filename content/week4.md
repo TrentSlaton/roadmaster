@@ -22,12 +22,12 @@ After demonstrating proficiency on the pre-trip inspection and on the maneuvers,
 
 #### Commentary
 
-1. "I am 100 feet from the railroad tracks, so I am turning on my 4 way flashers."
-1. "I am keeping to the right of the highway."
-1. "I am going to come to a complete stop 50 to 15 feet from the tracks."
-1. "I am rolling down my windows and turning off all cabin noise so that I can look and listen for oncoming trains."
-1. "I have enough clearance ahead of me to pull all the way through the tracks without stopping."
-1. "My trailer is clear from the tracks so I am turning off my 4 way flashers."
+* "I am 100 feet from the railroad tracks, so I am turning on my 4 way flashers."
+* "I am keeping to the right of the highway."
+* "I am going to come to a complete stop 50 to 15 feet from the tracks."
+* "I am rolling down my windows and turning off all cabin noise so that I can look and listen for oncoming trains."
+* "I have enough clearance ahead of me to pull all the way through the tracks without stopping."
+* "My trailer is clear from the tracks so I am turning off my 4 way flashers."
 
 ### Turning and Curves
 
@@ -43,16 +43,12 @@ You want enough space between the tandems and the curb to not hit anything, but 
 
 #### Things to remember
 
-1. Pull straight and turn late.
-1. Always watch your tandems in your mirrors. You do not know when to start turning unless you're watching your tandems meet the point where the turn starts.
-1. Whether turning left or right, if there are multiple turn lanes, always use the outside lane. (rightmost left turn lane for a left turn, leftmost turn lane for a right turn).
-1. Always finish in the right lane after a turn. The exception to this is when there are multiple turn lanes for a right turn.
-1. When turning on to things like a freeway on ramp, you will probably have to cross over the paint ahead of you so that your trailer tracks properly.
-1. Because of offtracking, you must hug the outside of the curve with your truck and watch your tandems in your mirror so your trailer does not drift into another lane or off the road.
-
-#### Commentary
-
-TODO
+* Pull straight and turn late.
+* Always watch your tandems in your mirrors. You do not know when to start turning unless you're watching your tandems meet the point where the turn starts.
+* Whether turning left or right, if there are multiple turn lanes, always use the outside lane. (rightmost left turn lane for a left turn, leftmost turn lane for a right turn).
+* Always finish in the right lane after a turn. The exception to this is when there are multiple turn lanes for a right turn.
+* When turning on to things like a freeway on ramp, you will probably have to cross over the paint ahead of you so that your trailer tracks properly.
+* Because of offtracking, you must hug the outside of the curve with your truck and watch your tandems in your mirror so your trailer does not drift into another lane or off the road.
 
 ### Hazards
 
@@ -77,13 +73,50 @@ Unless you are hauling hazmat (you won't be during the exam), you are not requir
 
 #### Commentary
 
-1. "Hazard(s) on my left/right." (when a vehicles is entering/exiting the roadway, pedestrians walking, crash on the side of the road, something parked on the side of the road)
-1. "No posted clearance, should be 13 and a half feet or more." (when coming up on an overpass without posted clearance signs)
-1. "Clearance 15 feet (or whatever), which is enough since I am 13 and a half feet tall." (when coming up on an overpass with posted clearance)
-1. "No posted weight limit, should support 80 thousand pounds or more." (when coming up on a bridge with no posted weight limit)
-1. "30 ton weight limit, which is enough since I am 80 thousand pounds or less." (when coming up on a bridge with a posted weight limit)
-1. "I am approaching a railroad crossing, keeping to the right of the highway. I am looking left and right for oncoming trains. I do not see any so I am checking my clearance ahead. I must have enough clearance to cross the tracks without stopping. I do, so I am driving over the tracks. My trailer has cleared the tracks."
+* "Hazard(s) on my left/right." (when a vehicles is entering/exiting the roadway, pedestrians walking, crash on the side of the road, something parked on the side of the road)
+* "No posted clearance, should be 13 and a half feet or more." (when coming up on an overpass without posted clearance signs)
+* "Clearance 15 feet (or whatever), which is enough since I am 13 and a half feet tall." (when coming up on an overpass with posted clearance)
+* "No posted weight limit, should support 80 thousand pounds or more." (when coming up on a bridge with no posted weight limit)
+* "X ton weight limit, which is enough since I am 80 thousand pounds or less." (one ton is 2,000lbs, so a bridge must support at least 40 tons)
+* "I am approaching a railroad crossing, keeping to the right of the highway. I am looking left and right for oncoming trains. I do not see any so I am checking my clearance ahead. I must have enough clearance to cross the tracks without stopping. I do, so I am driving over the tracks. My trailer has cleared the tracks."
 
 ### Road Signs
 
+You must call out all of the important road signs that you see. Things like speed limits, crosswalks, school zones and road work.
+
+#### Commentary
+
+* "Speed limit 45. I am going 34 so I am going to accelerate to 45." (call out your current speed when you call out speed limit signs)
+* "School zone crossing ahead." (school zone crossing signs have 2 people)
+* "Pedestrian crossing ahead." (pedestrian crossing signs have 1 person)
+* "Road work ahead."
+* "Construction ahead."
+* "Hidden driveway."
+* "Entering active school zone. Speed limit 20." (look for active school zone signals)
+
 ### Safety Stop
+
+You are required to know how to perform a safety stop. When the examiner asks you to perform a safety stop,
+
+1. Look to see the spot you are stopping is appropriate.
+1. Put turn signal on and begin moving towards your safety stop location.
+1. Make sure your trailer is parallel with the road and is an appropriate distance away from the lane.
+1. Make sure you are not blocking any entrances, exits, fire hydrants or important signs.
+1. Put your 4 way flashers on.
+1. Pull both buttons and put the truck in neutral.
+1. If you are going to be there more than 10 minutes, put out your orange triangles.
+
+#### Commentary
+
+1. "I am not blocking any entrances, exits, fire hydrants or important road signs."
+1. "My 4 way flashers are on."
+1. "My truck and trailer brakes are set and my truck is in neutral."
+1. "If I were here for 10 minutes or more, I would put out my orange triangles."
+
+When entering the roadway after a safety stop:
+
+1. release your brakes
+1. put the truck in drive
+1. turn off 4 way flashers
+1. put on turn signal
+1. drive into lane when it is safe and appropriate to do so
